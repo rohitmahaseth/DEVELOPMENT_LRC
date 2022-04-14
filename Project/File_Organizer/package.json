@@ -9,8 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bin":{
+  "bin": {
     "glacier": "main.js"
+  },
+  "dependencies": {
+    "node-sass": "^7.0.1"
   }
-    
 }
