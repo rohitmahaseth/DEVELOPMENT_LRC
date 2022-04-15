@@ -41,7 +41,7 @@ let a = [1, 2, 3, 4 ,5, 6];
 // console.log(ans);
 
 
-//remove a subarrya
+//remove a subarray
 //splice(st idx, delete count);
 // let splicedArray= a.splice(2, 3);
 // console.log("splicedArray: ", splicedArray);
