@@ -37,10 +37,11 @@ let fs= require("fs");
 // console.log(doesPathExist);
 
 // 8. is.File() or is.Directory()
-let detailsObj= fs.lstatSync("/Users/rohit/Desktop/DEVELOPMENT_LRC/JavaScript/NodeJs/abc.txt").isFile();
-console.log(detailsObj);
-detailsObj= fs.lstatSync("/Users/rohit/Desktop/DEVELOPMENT_LRC/JavaScript/NodeJs/abc.txt").isDirectory();
-console.log(detailsObj);
+// let detailsObj= fs.lstatSync("/Users/rohit/Desktop/DEVELOPMENT_LRC/JavaScript/NodeJs/abc.txt").isFile();
+// console.log(detailsObj);
+// detailsObj= fs.lstatSync("/Users/rohit/Desktop/DEVELOPMENT_LRC/JavaScript/NodeJs/abc.txt").isDirectory();
+// console.log(detailsObj);
+
 
 
 
